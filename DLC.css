@@ -1,0 +1,70 @@
+body {
+    background-image: url("Site_HK_Recources/background.jpg");
+    background-color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    h1{
+    color: white;
+    text-align: center ;
+    }
+
+    p1, h2, h5 {
+    color: white;
+    }
+}
+
+.textbox {
+    background-color: #41405e65;
+    width: 1275px;
+    height: 250px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 125px;
+    overflow: hidden;
+    border-radius: 12px;
+    outline-style: solid;
+    outline-width: 7px;
+    outline-color: #22244281;
+}
+
+.textbox2 {
+    background-color: #41405e65;
+    width: 1275px;
+    height: 350px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 125px;
+    overflow: hidden;
+    border-radius: 12px;
+    outline-style: solid;
+    outline-width: 7px;
+    outline-color: #22244281;
+}
+
+.textbox3 {
+    background-color: #41405e65;
+    width: 1275px;
+    height: 600px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 75px;
+    overflow: hidden;
+    border-radius: 12px;
+    outline-style: solid;
+    outline-width: 7px;
+    outline-color: #22244281;
+}
+
+.textbox4 {
+    background-color: #41405e65;
+    width: 1275px;
+    height: 400px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 75px;
+    overflow: hidden;
+    border-radius: 12px;
+    outline-style: solid;
+    outline-width: 7px;
+    outline-color: #22244281;
+}
